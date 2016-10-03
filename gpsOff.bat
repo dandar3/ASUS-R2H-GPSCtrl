@@ -1,0 +1,1 @@
+c:\TOOLS\gpsCtrl.exe off
